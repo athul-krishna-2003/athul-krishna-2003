@@ -1,8 +1,8 @@
 <img src="assets/hero-v2.svg" alt="Athul Krishna, web developer at Insights Marketers, Ernakulam." width="100%">
 
-<img src="assets/about-v2.svg" alt="I write the code for client websites at a marketing agency. Most of it is under NDA, so there isn't much I can link to." width="100%">
+<img src="assets/about-v3.svg" alt="I write the code for client websites at a marketing agency in Ernakulam: landing pages, online stores and internal tools." width="100%">
 
-<img src="assets/work-v2.svg" alt="A client website, blurred on purpose because the work is under NDA." width="100%">
+<img src="assets/work-v3.svg" alt="A recent client website, blurred, scrolling." width="100%">
 
 <img src="assets/stats-v2.svg" alt="Years coding, sites shipped, clients, on-time handovers, and sites shipped per month in 2026." width="100%">
 
