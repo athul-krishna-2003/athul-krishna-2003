@@ -1,17 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="What I do: I build websites that load fast, look clean, and convert.">
-  <title>What I do: I build websites that load fast, look clean, and convert.</title>
-  <style>@keyframes all{0%{opacity:0}3.333%,85.0%{opacity:1}92.5%,100%{opacity:0}}.all{animation:all 12.0s linear infinite}@keyframes u0{0%,8.333%{stroke-dashoffset:204}14.167%,100%{stroke-dashoffset:0}}.u0{stroke-dasharray:204;stroke-dashoffset:204;animation:u0 12.0s cubic-bezier(.2,.8,.2,1) infinite}@keyframes u1{0%,17.5%{stroke-dashoffset:225}23.333%,100%{stroke-dashoffset:0}}.u1{stroke-dasharray:225;stroke-dashoffset:225;animation:u1 12.0s cubic-bezier(.2,.8,.2,1) infinite}@keyframes u2{0%,26.667%{stroke-dashoffset:160}32.5%,100%{stroke-dashoffset:0}}.u2{stroke-dasharray:160;stroke-dashoffset:160;animation:u2 12.0s cubic-bezier(.2,.8,.2,1) infinite}@media (prefers-reduced-motion:reduce){*{animation:none!important}.u0{stroke-dashoffset:0}.u1{stroke-dashoffset:0}.u2{stroke-dashoffset:0}}</style>
-  <rect x="0.5" y="0.5" width="999" height="299" rx="16" fill="#e9e4d6" stroke="#cfc9b8"/>
-<g class="all"><text x="60" y="64" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="2.2" fill="#6b685f">WHAT I DO</text>
-<text x="60.0" y="140" font-family="Georgia, 'Times New Roman', serif" font-size="46" letter-spacing="-0.5" fill="#0e0f12" textLength="451.5" lengthAdjust="spacing">I build websites that</text>
-<text x="533.0" y="140" font-family="Georgia, 'Times New Roman', serif" font-size="46" letter-spacing="-0.5" fill="#0e0f12" textLength="193.5" lengthAdjust="spacing">load fast</text>
-<path class="u0" d="M529.0,154 Q629.8,148 730.5,151" fill="none" stroke="#ff5a36" stroke-width="4.5" stroke-linecap="round"/>
-<text x="726.5" y="140" font-family="Georgia, 'Times New Roman', serif" font-size="46" letter-spacing="-0.5" fill="#0e0f12" textLength="21.5" lengthAdjust="spacing">,</text>
-<text x="60.0" y="205" font-family="Georgia, 'Times New Roman', serif" font-size="46" letter-spacing="-0.5" fill="#0e0f12" textLength="215.0" lengthAdjust="spacing">look clean</text>
-<path class="u1" d="M56.0,219 Q167.5,213 279.0,216" fill="none" stroke="#ff5a36" stroke-width="4.5" stroke-linecap="round"/>
-<text x="275.0" y="205" font-family="Georgia, 'Times New Roman', serif" font-size="46" letter-spacing="-0.5" fill="#0e0f12" textLength="107.5" lengthAdjust="spacing">, and</text>
-<text x="404.0" y="205" font-family="Georgia, 'Times New Roman', serif" font-size="46" letter-spacing="-0.5" fill="#0e0f12" textLength="150.5" lengthAdjust="spacing">convert</text>
-<path class="u2" d="M400.0,219 Q479.2,213 558.5,216" fill="none" stroke="#ff5a36" stroke-width="4.5" stroke-linecap="round"/>
-<text x="554.5" y="205" font-family="Georgia, 'Times New Roman', serif" font-size="46" letter-spacing="-0.5" fill="#0e0f12" textLength="21.5" lengthAdjust="spacing">.</text>
-<text x="60" y="268" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#3a3935">Web developer at Insights Marketers, Ernakulam.</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 270" width="1000" height="270" role="img" aria-label="I write the code for client websites at a marketing agency. Most of it is under NDA, so there isn't much I can link to.">
+  <title>I write the code for client websites at a marketing agency. Most of it is under NDA, so there isn't much I can link to.</title>
+  <defs></defs>
+  <style>@keyframes hlc{0%,15.0%{clip-path:inset(0 100% 0 0) fill-box}25.0%,100%{clip-path:inset(0 0 0 0) fill-box}}@keyframes hlo{0%,80%{opacity:1}90%,100%{opacity:0}}.hl{animation:hlc 8.0s cubic-bezier(.7,0,.25,1) infinite,hlo 8.0s linear infinite}@media (prefers-reduced-motion:reduce){*{animation:none!important}.hl{clip-path:inset(0 0 0 0) fill-box;opacity:1}}</style>
+  <rect x="0.5" y="0.5" width="999" height="269" rx="18" fill="#f2f3ee" stroke="#d9dbd2"/>
+<text x="56.0" y="100" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="500" font-size="40" letter-spacing="-0.6" textLength="795.4" lengthAdjust="spacing" fill="#0a0f24">I write the code for client websites at a</text>
+<text x="56.0" y="156" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="500" font-size="40" letter-spacing="-0.6" textLength="601.4" lengthAdjust="spacing" fill="#0a0f24">marketing agency. Most of it is</text>
+<text x="676.8" y="156" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="500" font-size="40" letter-spacing="-0.6" textLength="174.6" lengthAdjust="spacing" fill="#0a0f24">under NDA</text>
+<text x="851.4" y="156" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="500" font-size="40" letter-spacing="-0.6" textLength="19.4" lengthAdjust="spacing" fill="#0a0f24">,</text>
+<text x="56.0" y="212" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="500" font-size="40" letter-spacing="-0.6" textLength="659.6" lengthAdjust="spacing" fill="#0a0f24">so there isn’t much I can link to.</text><g class="hl"><rect x="664.8" y="120" width="198.6" height="52" rx="8" fill="#2f4bff"/><text x="676.8" y="156" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="500" font-size="40" fill="#f2f3ee" textLength="174.6" lengthAdjust="spacingAndGlyphs">under NDA</text></g>
 </svg>
