@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 270" width="1000" height="270" role="img" aria-label="I write the code for client websites at a marketing agency. Most of it is under NDA, so there isn't much I can link to.">
+  <title>I write the code for client websites at a marketing agency. Most of it is under NDA, so there isn't much I can link to.</title>
+  <defs></defs>
+  <style>@keyframes hlc{0%,15.0%{clip-path:inset(0 100% 0 0) fill-box}25.0%,100%{clip-path:inset(0 0 0 0) fill-box}}@keyframes hlo{0%,80%{opacity:1}90%,100%{opacity:0}}.hl{animation:hlc 8.0s cubic-bezier(.7,0,.25,1) infinite,hlo 8.0s linear infinite}@media (prefers-reduced-motion:reduce){*{animation:none!important}.hl{clip-path:inset(0 0 0 0) fill-box;opacity:1}}</style>
+  <rect x="0.5" y="0.5" width="999" height="269" rx="18" fill="#f2f3ee" stroke="#d9dbd2"/>
+<text x="56.0" y="100" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="500" font-size="40" letter-spacing="-0.6" textLength="795.4" lengthAdjust="spacing" fill="#0a0f24">I write the code for client websites at a</text>
+<text x="56.0" y="156" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="500" font-size="40" letter-spacing="-0.6" textLength="601.4" lengthAdjust="spacing" fill="#0a0f24">marketing agency. Most of it is</text>
+<text x="676.8" y="156" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="500" font-size="40" letter-spacing="-0.6" textLength="174.6" lengthAdjust="spacing" fill="#0a0f24">under NDA</text>
+<text x="851.4" y="156" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="500" font-size="40" letter-spacing="-0.6" textLength="19.4" lengthAdjust="spacing" fill="#0a0f24">,</text>
+<text x="56.0" y="212" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="500" font-size="40" letter-spacing="-0.6" textLength="659.6" lengthAdjust="spacing" fill="#0a0f24">so there isn’t much I can link to.</text><g class="hl"><rect x="664.8" y="120" width="198.6" height="52" rx="8" fill="#2f4bff"/><text x="676.8" y="156" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="500" font-size="40" fill="#f2f3ee" textLength="174.6" lengthAdjust="spacingAndGlyphs">under NDA</text></g>
+</svg>
