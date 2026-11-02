@@ -16,40 +16,21 @@ I care about the unglamorous parts: spacing that holds up, pages that load quick
 
 ## Selected work
 
-| Project | What it is |
-|---|---|
-| [**IKON-web**](https://github.com/athul-krishna-2003/IKON-web) | Engineering brand website, built around clear presentation and user trust. |
-| [**KothamTv**](https://github.com/athul-krishna-2003/KothamTv) | Movie streaming website with a product-style, user-first build. |
-| [**StuRent**](https://github.com/athul-krishna-2003/StuRent) | Studio equipment rental platform, focused on usability and conversion. |
-| [**Vishnu-mohan-cv**](https://github.com/athul-krishna-2003/Vishnu-mohan-cv) | Personal portfolio and CV page. Simple, effective web presence. |
-| [**insightswebnew**](https://github.com/Insightsmakersdigital/insightswebnew) | TypeScript front end for the Insights Marketers site. |
+Classified. Almost everything I build is for clients, under NDA, in private repos.
+
+| Client | What I built | Where to see it |
+|---|---|---|
+| ████████████ | Company website | Live, but this repo is not the place |
+| ██████████ | E-commerce platform | Private repo |
+| ████████████████ | Internal tools | Behind a login you don't have |
+
+You'll have to take my word for it. Or better, ask me and I'll walk you through how I work.
 
 <br>
 
-## Tools
+## By the numbers
 
-`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Python` `Node.js` `Git` `Docker` `Figma`
-
-<br>
-
-## Numbers
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=athul-krishna-2003&show_icons=true&hide_border=true&count_private=true&bg_color=0e0f12&title_color=e9e4d6&text_color=d8d4c8&icon_color=ff5a36&ring_color=ff5a36" alt="GitHub stats" width="100%">
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athul-krishna-2003&layout=compact&hide_border=true&bg_color=0e0f12&title_color=e9e4d6&text_color=d8d4c8" alt="Top languages" width="100%">
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=athul-krishna-2003&bg_color=0e0f12&color=d8d4c8&line=ff5a36&point=e9e4d6&area=true&area_color=ff5a36&hide_border=true&hide_title=true" alt="Contribution activity graph" width="100%">
+<img src="assets/stats.svg" alt="Animated stats: years building, sites shipped, clients, on-time handovers, a stack chart and sites shipped per month in 2026." width="100%">
 
 <br>
 
