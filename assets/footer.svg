@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120" width="1000" height="120" role="img" aria-label="Not every project is huge. Some are just the start of something worth building.">
+  <style>
+    @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+    .blink{animation:blink 1.1s steps(1) infinite}
+    @media (prefers-reduced-motion:reduce){.blink{animation:none}}
+  </style>
+  <rect x="0.5" y="0.5" width="999" height="119" rx="16" fill="#0e0f12" stroke="#24262b"/>
+  <text x="60" y="68" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="22" fill="#e9e4d6">Not every project is huge. Some are just the start of something worth building.</text>
+  <rect class="blink" x="852" y="46" width="10" height="26" fill="#ff5a36"/>
+</svg>
